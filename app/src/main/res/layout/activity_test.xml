@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center">
+
+    <com.laowulao.noads.widget.IconView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#xe62e;"
+        android:textSize="60sp"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="iClear\n帮你屏蔽首屏广告"
+        android:textColor="@color/black6"
+        android:textSize="@dimen/sp20"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen20"
+        />
+
+
+</LinearLayout>

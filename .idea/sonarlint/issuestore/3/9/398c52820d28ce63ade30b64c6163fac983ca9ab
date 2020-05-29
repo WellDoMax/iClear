@@ -1,0 +1,8 @@
+
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(•î·óûÿÿÿÿ8¢½Áœğ-
+Zsquid:S2589R"7Remove this expression which always evaluates to "true"(²¯ßçüÿÿÿÿ8š ıœğ-
+¤squid:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ıÿÿÿÿ8ıæ„øş-
+Gsquid:S1659Ÿ"(Declare "tvLastTime" on a separate line.(å·÷Í8‰Ÿ§ğ-
+asquid:S1155R">Use isEmpty() to check whether the collection is empty or not.(²¯ßçüÿÿÿÿ8ùôûœğ-
+asquid:S1155e">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ8‰° ğ-
+Dsquid:S1659Ÿ"%Declare "tvTimes" on a separate line.(å·÷Í8‰Ÿ§ğ-

@@ -1,0 +1,13 @@
+
+Msquid:S1066o"/Merge this if statement with the enclosing one.(Ï¢‚Ñ8Òíüğ-
+usquid:S3776["RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ïŒµÚùÿÿÿÿ8¯°û¨ğ-
+Fsquid:S1185$"(Remove this method to simply inherit it.(Î¢È8óä÷³í-
+qsquid:S3008"SRename this field "LastTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘×á¦8 ¥ƒÙî-
+xsquid:S3008"URename this field "WHITE_LIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½úäÓúÿÿÿÿ8ò˜™×î-
+Jsquid:S1068"'Remove this unused "TAG" private field.(¢ €úÿÿÿÿ8ÁĞô÷ğ-
+Tsquid:S2696V"6Make the enclosing method "static" or remove this set.(•«ıß8Ä°­öğ-
+Ysquid:S2696R"6Make the enclosing method "static" or remove this set.(¹Ë‡ªøÿÿÿÿ8ÙŠ¬öğ-
+osquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ßé¡şÿÿÿÿ8•§ğ-
+Ysquid:S2696N"6Make the enclosing method "static" or remove this set.(—İ‰©ÿÿÿÿÿ8¨À«öğ-
+vsquid:S3008"SRename this field "DURATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‚¯şÿÿÿÿ8†ŞÙî-
+Ksquid:S1185)"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ8ú˜ø³í-

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="center_horizontal">
+
+    <include layout="@layout/nav_header" />
+
+    <com.laowulao.noads.widget.IconView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#xe62e;"
+        android:textSize="60sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="@dimen/sp40"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="iClear"
+        android:textColor="@color/black6"
+        android:textSize="@dimen/sp20"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/dimen20"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="版本1.0"
+        android:textColor="@color/black6"
+        android:textSize="@dimen/sp20"
+        android:layout_marginTop="@dimen/dimen20"
+        />
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="检查更新"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="@drawable/bg_btn_selector"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="20dp"
+        />
+
+
+</LinearLayout>

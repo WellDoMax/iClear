@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iClear</string>
+    <string name="description">广告屏蔽服务</string>
+    <string name="intercept_apps">已屏蔽APP</string>
+    <string name="intercept_duration">屏蔽频率</string>
+    <string name="intercept_test">效果测试</string>
+    <string name="help">服务指引</string>
+    <string name="about">关于iClear</string>
+
+</resources>

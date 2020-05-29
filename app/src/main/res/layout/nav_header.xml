@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/colorPrimary"
+    >
+
+    <com.laowulao.noads.widget.IconView
+        android:id="@+id/iv_back"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:text="&#xe603;"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="30sp"
+        />
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white"
+        />
+
+    <TextView
+        android:id="@+id/tv_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="清除"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/dimen16"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        />
+
+
+
+</RelativeLayout>

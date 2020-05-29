@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:padding="@dimen/dimen16"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/dimen10"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:textSize="@dimen/sp16"
+        android:textStyle="bold"
+        android:id="@+id/tv_name"
+        android:text="iClear"
+        android:textColor="@color/black3"
+        android:layout_toRightOf="@+id/iv_logo"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:textSize="@dimen/sp14"
+        android:id="@+id/tv_last_time"
+        android:textColor="@color/black6"
+        android:layout_toRightOf="@+id/iv_logo"
+        android:layout_below="@+id/tv_name"
+        android:text="上次拦截时间：19-12-15 13:20"
+        android:layout_marginTop="@dimen/dimen10"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:textSize="@dimen/sp14"
+        android:id="@+id/tv_times"
+        android:textColor="@color/black3"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="6次"
+        />
+
+
+
+
+</RelativeLayout>
