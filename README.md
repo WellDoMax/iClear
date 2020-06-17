@@ -11,7 +11,7 @@ android app首屏广告拦截器
 
 如这种：
 
-![img](./screen/s4.jpeg?raw=true)
+![img](https://github.com/vicent900527/iClear/raw/master/screen/s4.jpeg)
 
 这样，于是iClear的想法出来了。
 
@@ -35,23 +35,23 @@ android app首屏广告拦截器
 
 首页：
 
-![img](./screen/s1.jpeg?raw=true)
+![img](https://github.com/vicent900527/iClear/raw/master/screen/s1.jpeg)
 
 广告列表页：
 
-![img](./screen/s2.jpeg?raw=true)
+![img](https://github.com/vicent900527/iClear/raw/master/screen/s2.jpeg)
 
 ### 如何使用
 
 在系统设置中找到无障碍设置，将iClear打开即可。
 
-![img](./screen/s3.jpeg?raw=true)
+![img](https://github.com/vicent900527/iClear/raw/master/screen/s3.jpeg)
 
 或者直接从iClear首页>服务指引直达无障碍页面，将其打开。
 
 ### 下载
 
-[iClear下载](./app/release/app-release.apk?raw=true)
+[iClear下载](https://github.com/vicent900527/iClear/raw/master/app/release/app-release.apk)
 
 
 
